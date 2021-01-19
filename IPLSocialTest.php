@@ -7,8 +7,8 @@ class IPLSocialTest extends TestCase
 {
    public function test_simple_email_form_shouldReturnTrue(){
         $IPLSocial = new IPLSocial();
-        $actual = $IPLSocial->validateEmail("hello");
+        $actual = $IPLSocial->validateEmail("decoster.corentin@gmail.com");
 
-        $this->assertEquals(false,$actual,"first test, missmatch to check");
+        $this->assertEquals(true,$actual,"test with a correct mail");
     }
 }

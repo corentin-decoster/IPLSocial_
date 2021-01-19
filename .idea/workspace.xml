@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66c5071-1a1e-47fe-a32c-16c654654757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPLSocial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPLSocialTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPLSocial.php" beforeDir="false" afterPath="$PROJECT_DIR$/IPLSocial.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPLSocialTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/IPLSocialTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611045867912</updated>
-      <workItem from="1611045868940" duration="2158000" />
+      <workItem from="1611045868940" duration="2554000" />
     </task>
     <servers />
   </component>
@@ -72,22 +72,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="347" y="340" width="440" height="427" key="FileChooserDialogImpl/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611048026564" />
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1611047802140">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom" timestamp="1611048353037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611047802140" />
-    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1611047802140">
+    <state width="1860" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611048353037" />
+    <state width="1860" height="279" key="GridCell.Tab.0.center" timestamp="1611048353037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611047802140" />
-    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1611047802140">
+    <state width="1860" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611048353037" />
+    <state width="1860" height="279" key="GridCell.Tab.0.left" timestamp="1611048353037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611047802140" />
-    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1611047802140">
+    <state width="1860" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611048353037" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right" timestamp="1611048353037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611047802140" />
+    <state width="1860" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-836.1080.1880@0.0.1920.1040" timestamp="1611048353037" />
     <state x="788" y="246" key="NewPhpClassDialog" timestamp="1611046167633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
