@@ -11,4 +11,11 @@ class IPLSocialTest extends TestCase
 
         $this->assertEquals(true,$actual,"test with a correct mail");
     }
+    public function test_simple_email_form_no_arobase_shouldReturnfalse(){
+        $IPLSocial = new IPLSocial();
+        $actual = $IPLSocial->validateEmail("decoster.corentin.gmail.com");
+
+        $this->assertEquals(false,$actual,"test with a wrong mail");
+    }
+
 }
